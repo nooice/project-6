@@ -1,0 +1,16 @@
+{
+  "name": "contentscraper",
+  "version": "1.0.0",
+  "description": "App used to scrape the contents of a t-shirt site",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kalvin Bunn",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fast-csv": "^2.4.1",
+    "scrape-it": "^5.0.5"
+  }
+}
